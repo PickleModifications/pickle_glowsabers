@@ -9,4 +9,4 @@
 2) You cannot distribute this resource, regardless of it's modified state, to any other party or individual. Any reception of this resource should occur through this repository's page.
 3) Taking any part of this resource's content without gaining consent from the repository's owner is prohibited.
 4) You may not claim ownership of any of the content in this resource.
-5) When using it in a FiveM server, you must have the resource called "pickle_waypoints".
+5) When using it in a FiveM server, you must have the resource folder's name as the exact same as the repository's name.
